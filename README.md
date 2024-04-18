@@ -10,6 +10,7 @@ This project automates the organization of files within the Downloads, Documents
 ![Downloads/Documents Folder](./demo/Downloads_Documents.png)
 ![Downloads/Images Folder](./demo/Downloads_Images.png)
 ![Downloads/Videos Folder](./demo/Downloads_Videos.png)
+
 These screenshots shows how the script organizes the files into their respective folders based on their file types.
 
 ### NOTE:

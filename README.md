@@ -6,7 +6,7 @@ This project automates the organization of files within the Downloads, Documents
 - Supports various file types such as images, videos, documents, audios, and more.
 
 ## Demo
-> The following screenshots will show how the script organizes the files into their respective folders based on their file types.
+> The following screenshots show how the script organizes the files into their respective folders based on their file types.
 
 *Downloads*
 ![Downloads Folder](./demo/Downloads.png)
